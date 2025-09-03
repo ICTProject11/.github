@@ -46,7 +46,7 @@
 │  ├─ storage/           # chroma persist dirs
 │  ├─ docker/            # optional docker assets
 │  ├─ airflow/           # DAGs: crawl → preprocess → embed
-│  ├─ .env.example
+│  ├─ .env
 │  ├─ requirements.in
 │  └─ requirements.txt
 │
